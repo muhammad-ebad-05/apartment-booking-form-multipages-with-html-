@@ -3,7 +3,7 @@
 A modern and responsive multi-page apartment booking website built using **HTML5** and **CSS3**. This project features separate pages for simple and luxury apartment accommodations, clean navigation, and structured booking forms.
 
 ## 🚀 Live Demo
-*(https://github.com/muhammad-ebad-05.githubio/apartment-booking-form-multipages-with-html-)*
+*(https://github.com/muhammad-ebad-05.github.io/apartment-booking-form-multipages-with-html-)*
 
 ## 📂 Project Structure
 ```text

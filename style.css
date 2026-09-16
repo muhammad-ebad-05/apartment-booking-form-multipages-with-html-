@@ -1,0 +1,10 @@
+
+
+body {
+    background-color: #0F172A;
+    color: #FFFFFF;
+}
+body.luxury-body {
+    background-color: #F3F4F6;
+    color: #000000;
+}
